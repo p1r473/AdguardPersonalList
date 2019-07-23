@@ -1,5 +1,5 @@
 [AdguardPersonalList]
-! Version: 1
+! Version: 2
 !
 river-mobile.data.ea.com
 graph.facebook.com
@@ -341,3 +341,6 @@ paas-fb297bff-c629-4ba7-8995-049-429374455.us-east-1.elb.amazonaws.com
 paas-0afb5372-c475-4ee7-a1e1-3a9-1975109958.us-east-1.elb.amazonaws.com
 paas-fae76d9a-6b61-4232-926f-b5a-1928966269.us-east-1.elb.amazonaws.com
 aligtr063.mmstat.com
+c4dm.adcolony.com
+||footprint.net
+||appsflyer.com
