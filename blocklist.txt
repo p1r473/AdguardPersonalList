@@ -1,3 +1,6 @@
+[AdguardPersonalList]
+! Version: 1
+!
 river-mobile.data.ea.com
 graph.facebook.com
 rv-gateway.supersonicads.com
