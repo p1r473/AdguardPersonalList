@@ -287,7 +287,6 @@ pp.images.harmony.epsilon.com
 www.fost.me
 cdn.onesignal.com
 consent.cookiebot.com
-play.googleapis.com
 ea.pstmrk.it
 logger.unsplash.com
 cdn.lynda.com
