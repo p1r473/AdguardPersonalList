@@ -280,7 +280,6 @@ wa.me
 www.foodpanda.my
 edgewise.app
 googleadapis.l.google.com
-platform.twitter.com
 snowplow.trx.gitlab.net
 gemius.mgr.consensu.org
 pp.images.harmony.epsilon.com
