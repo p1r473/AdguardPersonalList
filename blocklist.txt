@@ -1,6 +1,35 @@
 [AdguardPersonalList]
-! Version: 5
+! Version: 6
 !
+ad.mox.tv
+ad2.ip.ro
+admonitoring.bsgroup.ro
+adnxs.com
+adocean.pl
+ads.tradeads.eu
+ads2.evz.ro
+ads2.msads.net
+adservice.google.ro
+adsymptotic.com
+analyticsinsights-pa.googleapis.com
+analyticssearch-pa.googleapis.com
+co4.telecommand.telemetry.microsoft.com
+co4.telecommand.telemetry.microsoft.com.akadns.net
+content-analyticsinsights-pa.googleapis.com
+elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com
+fa8aa448-devopsts-devopsts-116a-38259446.us-west-2.elb.amazonaws.com
+log.vivre.eu
+logagent-1328010894.us-west-2.elb.amazonaws.com
+logagent-251667153.us-west-2.elb.amazonaws.com
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+watson.telemetry.microsoft.com
+www.analyticsinsights-pa.googleapis.com
+www.analyticssearch-pa.googleapis.com
+yahoodns.net
+ninja.data.olxcdn.com
+150vod-adaptive.akamaized.net
+ad.dc2.adtech.de
 log.zoom.us
 logfiles.zoom.us
 zoom.cn
@@ -44,7 +73,6 @@ pxnvzaa.simcitybuildit.com
 udm.scorecardresearch.com
 sb.scorecardresearch.com
 gate.hockeyapp.net
-settings.data.microsoft.com
 connect.facebook.net
 events.appsflyer.com
 t.appsflyer.com
