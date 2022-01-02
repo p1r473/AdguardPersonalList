@@ -1,5 +1,5 @@
 [AdguardPersonalList]
-! Version: 4
+! Version: 5
 !
 log.zoom.us
 logfiles.zoom.us
@@ -51,9 +51,7 @@ t.appsflyer.com
 api.branch.io
 branch.io
 cdn.branch.io
-cdn.contentful.com
 emag-bud.gravityrd-services.com
-gql.reddit.com
 beacon.shazam.com
 apmgate.orange.ro
 data.flurry.com
@@ -266,20 +264,12 @@ cdn.dynamicyield.com
 rewrite.amazon.com
 q4mn.adj.st
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
-iob.imgur.com
 snake.googlemaps.com
 bhpz.adj.st
 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
 xx5e5.app.goo.gl
-cbmp.app.link
-emag.page.link
-olxro-alternate.app.link
-olxro.app.link
 qv7cu.app.goo.gl
-discordapp.page.link
 discord.gift
-casa.app.link
-casa-alternate.app.link
 wa.me
 www.foodpanda.my
 edgewise.app
