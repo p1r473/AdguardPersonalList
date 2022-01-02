@@ -1,6 +1,12 @@
 [AdguardPersonalList]
-! Version: 3
+! Version: 4
 !
+log.zoom.us
+logfiles.zoom.us
+zoom.cn
+zoom.com.cn
+zoomgov.com
+zpns.zoom.us
 rv-gateway.supersonicads.com
 ads.api.vungle.com
 auction.unityads.unity3d.com
