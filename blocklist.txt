@@ -1,8 +1,6 @@
 [AdguardPersonalList]
-! Version: 2
+! Version: 3
 !
-river-mobile.data.ea.com
-graph.facebook.com
 rv-gateway.supersonicads.com
 ads.api.vungle.com
 auction.unityads.unity3d.com
@@ -279,7 +277,6 @@ casa-alternate.app.link
 wa.me
 www.foodpanda.my
 edgewise.app
-googleadapis.l.google.com
 snowplow.trx.gitlab.net
 gemius.mgr.consensu.org
 pp.images.harmony.epsilon.com
@@ -295,7 +292,6 @@ wd.adcolony.com
 events3alt.adcolony.com
 events3.adcolony.com
 ads30.adcolony.com
-people-pa.googleapis.com
 click.redditmail.com
 s-usc1c-nss-268.firebaseio.com
 s-usc1c-nss-267.firebaseio.com
@@ -333,7 +329,6 @@ vid1021.d41.co
 www91.intel.com
 ads.servebom.com
 perf.mmstat.com
-live-chatsquareapi-cd476a6c958a871c.elb.us-east-1.amazonaws.com
 us-east-1-a.route.herokuapp.com
 paas-fb297bff-c629-4ba7-8995-049-429374455.us-east-1.elb.amazonaws.com
 paas-0afb5372-c475-4ee7-a1e1-3a9-1975109958.us-east-1.elb.amazonaws.com
