@@ -183,7 +183,6 @@ collector-pxphwoqumu.perimeterx.net
 attr.appsflyer.com
 sonypmmglobal.d1.sc.omtrdc.net
 dub.stats.paypal.com
-apple-finance.query.yahoo.com
 5-7-3-ios.error.ingest.crittercism.com
 reachms.bfmio.com
 v.lkqd.net
